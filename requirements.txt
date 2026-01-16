@@ -1,0 +1,8 @@
+streamlit
+groq
+pandas
+openpyxl
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
